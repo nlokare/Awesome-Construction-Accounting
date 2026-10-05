@@ -98,6 +98,12 @@ AI platforms like **Adaptive** perform real-time variance analysis between estim
 
 ---
 
+## 📚 Buyer Guides & Comparisons
+
+Independent resources for evaluating contractor / field-service platforms (complementary to job-costing stacks):
+
+- [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) — Free, vendor-neutral Jobber vs Housecall Pro comparison with published scoring and true-cost framing for trade shops. Not FieldScout/fieldscout.io.
+
 ## 🤝 How to Contribute 🛠️
 1. Fork this repository.
 2. Add high-quality open-source projects or SaaS solutions following the established tabular structure.
